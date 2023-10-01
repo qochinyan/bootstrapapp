@@ -1,0 +1,38 @@
+* {
+    font-family: "Ruda", sans-serif;
+  }
+  h2 {
+    font-weight: 600; 
+    color: #28338a !important; 
+    line-height: 60px;
+  }
+  h3 {
+    color: #28338a !important; 
+    font-size: 20px;
+    font-weight: 600;
+  }
+  p {
+    font-weight: 400; 
+    color: #555; 
+    margin-bottom: 20px; 
+    line-height: 30px;
+  }
+  .bg-blurred {
+    background-image: url("./images/bg1.jpg"); /* Set your background image here */
+    background-size: cover;
+    min-width: 100vw;
+    min-height: 100vh;
+  }
+  .rounded-right {
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+  }
+  .third-section {
+    margin-right: 5vw;
+  }
+  .btn {
+    padding: 12px 35px;
+    font-size: 25px;
+    background-color: #28338a !important;
+    color: white;
+  }
